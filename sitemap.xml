@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/iseptianto/solondon</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/issues</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/pulls</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/projects?query=is%3Aopen</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/security</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/blob/main/index.html</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/blob/main/index.html.bak</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/releases</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/compare</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004575569</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004566761</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/blob/2174549079ac1ee241bb5f904d84816a74051bb1/index.html</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/find/main</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/blob/2174549079ac1ee241bb5f904d84816a74051bb1/index.html.bak</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels?sort=name-asc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels?sort=name-desc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels?sort=count-desc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels?sort=count-asc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/bug</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/documentation</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/duplicate</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/enhancement</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/good%20first%20issue</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/help%20wanted</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/invalid</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/question</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/labels/wontfix</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004575569/jobs/8967329402</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004575569/jobs/8967342025</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004575569/jobs/8967341779</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004575569/usage</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/commit/2174549079ac1ee241bb5f904d84816a74051bb1</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004566761/jobs/8967310566</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004566761/jobs/8967324657</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004566761/jobs/8967324865</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/actions/runs/5004566761/usage</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/find/2174549079ac1ee241bb5f904d84816a74051bb1</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/iseptianto/solondon/commit/b0dbc1e2ff9ab583a0d4bf8f9a7c3e96c5f8ca5a</loc>
+  <lastmod>2023-05-17T14:49:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
