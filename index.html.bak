@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>PT.Solondon Makmur - Assisting in meeting your needs</title>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <!-- Custom Fonts -->
+        <link rel="stylesheet" href="custom-font/fonts.css" />
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="css/font-awesome.min.css" />
+        <!-- Bootsnav -->
+        <link rel="stylesheet" href="css/bootsnav.css">
+        <!-- Fancybox -->
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css?v=2.1.5" media="screen" />	
+        <!-- Custom stylesheet -->
+        <link rel="stylesheet" href="css/custom.css" />
+        <!--[if lt IE 9]>
+                <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+		 <!-- Favicon -->
+		 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://iseptianto.github.io/solondon/</loc>
+  <lastmod>2023-05-03T11:20:41+00:00</lastmod>
+</url>
+
+
+</urlset>
+    <link href="images/38.ico" rel="icon">
+    </head>
+    <body>
+
+        <!-- Preloader -->
+
+        <div id="loading">
+            <div id="loading-center">
+                <div id="loading-center-absolute">
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                    <div class="object"></div>
+                </div>
+            </div>
+        </div>
+
+        <!--End off Preloader -->
+
+        <!-- Header -->
+        <header>
+            <!-- Top Navbar -->
+            <div class="top_nav">
+                <div class="container">
+                    <ul class="list-inline info">
+                        <li><a href="http://wa.me/6289630978180"><span class="fa fa-whatsapp"></span> (+62) 89-630-978-180</a></li>
+                        <li><a href="mailto:admin@solondonmakmur.com?subject="><span class="fa fa-envelope"></span> admin@solondonmakmur.com</a></li>
+                        <li><a href="#"><span class="fa fa-clock-o"></span> Mon - Sat 9:00 - 17:00 (GMT+7)</a></li>
+                    </ul>		
+                </div>
+            </div><!-- Top Navbar end -->
+
+            <!-- Navbar -->
+            <nav class="navbar bootsnav">
+                <!-- Top Search -->
+                <div class="top-search">
+                    <div class="container">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <!-- Atribute Navigation -->
+                    
+                    <!-- Header Navigation -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href=""><img class="logo" src="images/40.jpg" alt=""></a>
+                    </div>
+                    <!-- Navigation -->
+                    <div class="collapse navbar-collapse" id="navbar-menu">
+                        <ul class="nav navbar-nav menu">
+                            <li><a href="">Home</a></li>                    
+                            <li><a href="#about">About Us</a></li>
+							<li><a href="#why_us">Value</a></li>
+                            <li><a href="#services">Product</a></li>
+                            <li><a href="#portfolio">Galery </a></li>
+							<li><a href="#testimonial">Testimonial</a></li>
+                            <li><a href="#contact_form">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>   
+            </nav><!-- Navbar end -->
+        </header><!-- Header end -->
+
+
+        <section id="home" class="home">
+            <!-- Carousel -->
+            <div id="carousel" class="carousel slide" data-ride="carousel">
+                <!-- Carousel-inner -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="images/91.jpg" alt="Construction">
+                        <div class="kode-jagoan" jagoan-kode="fila">
+                            <div class="carousel-caption">
+                                <h3>Experience the rich and unique flavors of Indonesian coffee </h3>
+                                <h1>COFFEE INDONESIAN</h1>
+                                <h1 class="second_heading"> a true taste of the archipelago</h1>
+							    <p>Indonesia is one of the world's largest coffee producers, known for its high-quality beans and unique flavor profiles. From the rich and earthy Sumatran coffee to the bright and fruity Java coffee, there's something for every coffee lover in Indonesia.<span class="jagoankodekeren">...</span><span class="more" style="display: none;"> Indonesian coffee is grown in the lush volcanic soils of the archipelago, which gives it a distinct flavor and aroma. The beans are hand-picked and sun-dried, ensuring that only the best quality beans make it to your cup.</p>
+								<button onclick="readMore('fila')" class="btn know_btn">Read more</button>
+								</div>					
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/93.jpg" alt="Construction">
+                        <div class="kode-jagoan" jagoan-kode="vans">
+                            <div class="carousel-caption">
+                                <h3>Discover the Exquisite Artistry of Indonesian Handicrafts</h3>
+                                <h1>HANDICRAFTS</h1>
+                                <h1 class="second_heading">Creative & Professional</h1>
+								<p>Indonesia is a haven for exquisite handicrafts that showcase the skill and creativity of its talented artisans. Each piece tells a unique story and carries the essence of Indonesian culture and heritage.<span class="jagoankodekeren">...</span><span class="more" style="display: none;"> From intricately carved wooden sculptures to vibrant batik textiles, Indonesian handicrafts offer a glimpse into the country's rich artistic traditions. Skilled craftsmen pour their heart and soul into every creation, resulting in breathtaking works of art.</p>
+								<button onclick="readMore('vans')" class="btn know_btn">Read more</button>
+								</div>				
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/92.jpg" alt="Construction">
+                        <div class="kode-jagoan" jagoan-kode="converse">
+                            <div class="carousel-caption">
+                                <h3>Discover the Exquisite Flavors of Indonesian Herbs and Spices</h3>
+                                <h1>HERBS AND SPICES</h1>
+                                <h1 class="second_heading">Creative & Professional</h1>
+								<p>Indonesian is a treasure trove of aromatic herbs and spices that will elevate your culinary creations to new heights. With its rich biodiversity and unique climate, the archipelago is home to a wide array of flavors that are sure to tantalize your taste buds.<span class="jagoankodekeren">...</span><span class="more" style="display: none;">.Indonesian cuisine is renowned for its vibrant use of herbs and spices, which bring depth, complexity, and a burst of aromas to every dish. From the fiery heat of chili peppers to the fragrant allure of lemongrass, each ingredient adds its own distinctive touch.</p>
+								<button onclick="readMore('converse')" class="btn know_btn">Read more</button>
+							</div>					
+                        </div>
+                    </div>
+                </div><!-- Carousel-inner end -->
+
+
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                    <span class="fa fa-angle-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                    <span class="fa fa-angle-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div><!-- Carousel end-->
+
+        </section>
+
+
+        <!-- About -->
+        <section id="about">
+            <div class="container about_bg">
+                <div class="kode-jagoan" jagoan-kode="newbalancek2">
+                    <div  class="col-lg-7 col-md-6">
+                        <div class="about_content">
+                            <h2>Welcome to Our Company</h2>
+                            <p>PT. Solondo Makmur is a company located in Solo, Indonesia. We specialize in agricultural commodities and distribute Indonesia's agricultural products to both local and international customers while prioritizing the best quality products. To achieve this, we have dedicated our time, knowledge, and skills to building a good and sustainable supply chain that can add value and benefit to our customers.<span class="jagoankodekeren">...</span><span class="more" style="display: none;"> We are confident that we can help you advance, grow, and collaborate together in this trade. Therefore, the company always welcomes any collaboration that you offer to us and we also have a guideline for a sustainable vision and mission, where farmers can also benefit from this collaboration and cooperation. This is the aspiration of the establishment of the company.</p>
+							<button onclick="readMore('newbalancek2')" class="btn know_btn">Read more</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-lg-offset-1">
+                        <div class="about_banner">
+                            <img src="images/5.png" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- About end -->
+
+        <!-- Why us -->
+        <section id="why_us">
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="head_title">
+                            <h2>Why Choose Us? </h2>
+                            <p>Benefits you can get by working with our experts</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="why_us_item">
+                            <span class="fa fa-leaf"></span>
+                            <h4>Reliable</h4>
+                            <p>We are a trusted company and provide our customers with the best services. We are reliable and transparent to ensure that customer satisfaction is unquestionable with us. If you are still unsure, you can ask us to send you a sample first.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="why_us_item">
+                            <span class="fa fa-clock-o"></span>
+                            <h4>Collaboration</h4>
+                            <p>We are ready for a long-term collaboration with you where customer needs are the main focus. This collaboration is essential with customers both domestically and internationally.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="why_us_item">
+                            <span class="fa fa-user"></span>
+                            <h4>Customer Focus</h4>
+                            <p>Here we emphasize that customer focus is the main thing in this collaboration, therefore we hope we can sell and serve from everything among them.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="why_us_item">
+                            <span class="fa fa-line-chart"></span>
+                            <h4>Best Products</h4>
+                            <p>We will strive to provide you with the best products as a form of trust that you have given us. Before we send them to you, we will make sure that we check them twice according to the SOP that we have made</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- Why us end -->
+
+        <!-- Services -->
+        <section id="services">
+            <p><div class="container">
+                <h2>Featured Product</h2>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="kode-jagoan" jagoan-kode="newbalancek6">
+                            <img src="images/96.jpg" alt="Our Services" />
+                            <p><h3>COFFEE INDONESIAN</h3></p>
+                            <p>One of the most famous Indonesian coffees is Kopi Luwak, also known as civet coffee. This specialty coffee is made from beans that have been eaten and excreted by civet cats, which gives it a unique and complex flavor profile.
+But Indonesian coffee is not just about Kopi Luwak; there are many other varieties to explore. Toraja coffee, from the highlands of Sulawesi, has a rich and full-bodied flavor with hints of dark chocolate and spices. Meanwhile, Bali coffee has a smooth and mellow taste with a sweet finish.
+
+								<span class="jagoankodekeren">...</span><span class="more" style="display: none;"> Indonesian coffee is not just delicious; it also supports local communities. Many small-scale farmers grow coffee as their main source of income, and by buying Indonesian coffee, you are supporting their livelihoods.</p>
+						<button onclick="readMore('newbalancek6')" class="btn know_btn">Read more</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="kode-jagoan" jagoan-kode="newbalancek4">
+                            <img src="images/98.jpg" alt="Our Services" />
+                            <p><h3>HANDICRAFTS</h3></p>
+                            <p>Another treasured Indonesian craft is the weaving of traditional textiles, such as ikat and songket. These fabrics, created using age-old techniques, boast stunning patterns and colors that are a testament to the craftsmanship and cultural significance of the region.
+Indonesia is also famous for its handcrafted wooden furniture and decor. From intricately carved teak furniture to unique rattan creations, these pieces add warmth and elegance to any space, while showcasing the natural beauty of Indonesian wood.
+<span class="jagoankodekeren">...</span><span class="more" style="display: none;">So, immerse yourself in the world of Indonesian handicrafts and experience the artistry and cultural heritage that these masterpieces embody. From intricately detailed carvings to vibrant textiles and elegant ceramics, let the beauty of Indonesian craftsmanship inspire and captivate you.</p>
+						<button onclick="readMore('newbalancek4')" class="btn know_btn">Read more</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="kode-jagoan" jagoan-kode="newbalancek5">
+                            <img src="images/97.jpg" alt="Our Services" />
+                            <p><h3>HERBS AND SPICES</h3></p>
+                            <p>Indonesia is famous for its prized spices like nutmeg, cloves, and cinnamon, which have enchanted the world for centuries. These spices not only enhance the flavors of savory dishes but also infuse warmth and comfort into desserts and beverages.
+Herbs such as turmeric, galangal, and kaffir lime leaves are essential in Indonesian cooking, imparting a fresh and zesty kick. They are often used in traditional dishes like rendang, soto, and gado-gado, where their aromatic essence takes center stage.
+<span class="jagoankodekeren">...</span><span class="more" style="display: none;"> So, embark on a culinary adventure and experience the wonders of Indonesian herbs and spices. Let their aromas transport you to the vibrant markets and lush landscapes of Indonesia, and savor the incredible flavors they bring to your table.</p>
+						<button onclick="readMore('newbalancek5')" class="btn know_btn">Read more</button>
+                        </div>
+                    </div>
+                </div>
+            </div></p>
+        </section><!-- Services end -->
+
+        <!-- Portfolio -->
+        <section id="portfolio">
+            <div class="container portfolio_area text-center">
+                <h2>Galery</h2>
+                <p>Some of our flagship products that we have</p>
+
+                <div id="filters">
+                    <button class="button is-checked" data-filter="*">Show All</button>
+                    <button class="button" data-filter=".coffee">Coffee</button>
+                    <button class="button" data-filter=".handicrafts">Handicrafts</button>
+                    <button class="button" data-filter=".herbs">Herbs and Spices</button>
+                    <button class="button" data-filter=".banana">Banana Leaf</button>
+					<br><button class="button" data-filter=".handmade">handmade</button>
+					<button class="button" data-filter=".Vanilli">Vanilli </button>
+					<button class="button" data-filter=".Charcoal">Charcoal Briquette </button></br>
+                </div>
+                <!-- Portfolio grid -->		
+                <div class="grid">
+                    <div class="grid-sizer"></div>
+                    <div class="grid-item grid-item--width2 grid-item--height2 coffee">
+                        <img alt="" src="images/81.jpg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/81.jpg" data-fancybox-group="gallery" title="Roasted coffee beans arabica and robusta"><span class="fa fa-search"></span></a>
+                       
+                        </div>  
+                    </div>
+
+                    <div class="grid-item herbs">
+                        <img alt="" src="images/82.jpg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/82.jpg" data-fancybox-group="gallery" title="The best spices from Indonesia"><span class="fa fa-search"></span></a>
+                        
+                        </div>   
+                    </div>
+
+                    <div class="grid-item handmade">
+                        <img alt="" src="images/09.png" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/09.png" data-fancybox-group="gallery" title="Handmade from Solo: Unmatched Touch of Creativity"><span class="fa fa-search"></span></a>
+             
+                        </div>  
+                    </div>
+
+                    <div class="grid-item herbs">
+                        <img alt="" src="images/84.jpg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/84.jpg" data-fancybox-group="gallery" title="The best spices from Indonesia"><span class="fa fa-search"></span></a>
+                         
+                        </div>  
+                    </div>
+
+                    <div class="grid-item handicrafts">
+                        <img alt="" src="images/100.jpg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/100.jpg" data-fancybox-group="gallery" title="Handicrafts that produce added value"><span class="fa fa-search"></span></a>
+                  
+                        </div>  
+                    </div>
+					  <div class="grid-item coffee">
+                        <img alt="" src="images/gayo.png" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/gayo.png" data-fancybox-group="gallery" title="Green Bean Indonesian Gayo Arabica Specialty Coffee"><span class="fa fa-search"></span></a>
+                        
+                        </div>   
+                    </div>
+
+                    <div class="grid-item banana">
+                        <img alt="" src="images/05.jpg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/05.jpg" data-fancybox-group="gallery" title="Natural Packaging for Culinary Enjoyment"><span class="fa fa-search"></span></a>
+             
+                        </div>  
+                    </div>
+
+                    <div class="grid-item Vanilli">
+                        <img alt="" src="images/04.jpeg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/04.jpeg" data-fancybox-group="gallery" title="Grade A+ with size Up 14cm until 17cm, Balck Light Color fresh From the farm, Moisturizing 20-35% and Vacuum Packaging durable until 2 years "><span class="fa fa-search"></span></a>
+                         
+                        </div>  
+                    </div>
+
+                    <div class="grid-item Charcoal">
+                        <img alt="" src="images/6.jpeg" >
+                        <div class="portfolio_hover_area">
+                            <a class="fancybox" href="images/6.jpeg" data-fancybox-group="gallery" title="Coconut Charcoal Briquettes for your baking ingredients"><span class="fa fa-search"></span></a>
+                  
+                        </div>  
+                    </div>
+                </div><!-- Portfolio grid end -->
+            </div>
+        </section><!-- Portfolio end -->
+
+        <!-- Testimonial -->
+        <section id="testimonial">
+            <div class="container text-center testimonial_area">
+                <h2>Customer Reviews</h2>
+                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content text-left">
+                                <p>Collaborating with PT. Solondon Makmur is a very wise decision for our company. They not only provide the best products but also deliver reliable services. We feel proud and fortunate to have PT. Solondon Makmur as our trading partner.</p>
+                            </div>
+                            <img src="images/testi2.jpg" alt="Testimonial" />
+                            <p class="worker_name">Mr.Pahala Manalu</p>
+							<p class="worker_caption">Owner PT Niatprima Sedunia</p>
+							
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <p>I am highly satisfied with the products provided by PT. Solondon Makmur. The quality is excellent and matches our company's standards. They handle the shipment process very quickly and carefully. I highly recommend PT. Solondon Makmur to anyone in search of a trading partner.</p>
+                            </div>
+                            <img src="images/testi3.jpg" alt="Testimonial" />
+                            <p class="worker_name">Mrs.Lastri Kharim</p>
+							<p class="worker_caption">TraderGlobal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="testimonial_item">
+                            <div class="testimonial_content">
+                                <p>Thanks to the collaboration with PT. Solondon Makmur, we are able to produce high-quality products. They provide the best products in the international market, and we feel confident in expanding our business reach. Thank you, PT. Solondon Makmur, for the exceptional support.</p>
+                            </div>
+                            <img src="images/testi1.jpg" alt="Testimonial" />
+                            <p class="worker_name">Mr Hendratok</p>
+							<p class="worker_caption">Sales PT.Sentosa Jaya</p>
+							
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- Testimonial end -->
+
+        <!-- Contact form -->
+        <section id="contact_form">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Do you have any questions?</h2>
+                        <h2 class="second_heading">Feel free to contact us!</h2>
+                    </div>
+					<form
+					  action="https://formspree.io/f/mnqydzko"
+					  method="POST">
+                    <form role="form" class="form-inline text-right col-md-6" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqydzko" method="post"> 
+					  <fieldset id="fs-frm-inputs">
+                        <div class="form-group">
+						<input type="text" class="form-control" name="name" id="full-name" placeholder="Full Name" required="">
+                        </div>
+                        <div class="form-group">
+						<input type="email" class="form-control" name="_replyto" id="email-address" placeholder="Email@domain.tld" required="">
+                        </div>
+                        <div class="form-group">
+						<textarea class="form-control" rows="5" name="message" id="message" placeholder="Write a message here" required=""></textarea>
+                        </div>
+						<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+					 <input type="submit" class="btn know_btn" value="Submit">
+					 </fieldset>
+					  
+					</form>
+                    </form>				
+                </div>
+            </div>
+        </section><!-- Contact form end -->
+
+        <!-- Footer -->
+        <footer>
+            <!-- Footer top -->
+            <div class="container footer_top">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-7">
+                        <div class="footer_item">
+                            <h4>About Company</h4>
+                            <img class="logo" src="images/41.png" alt="Construction" />
+                            <p>PT. Solondo Makmur is a company located in Solo, Indonesia. We specialize in agricultural commodities and distribute Indonesia's agricultural products to both local and international customers while prioritizing the best quality products. To achieve this, we have dedicated our time, knowledge, and skills to building a good and sustainable supply chain that can add value and benefit to our customer</p>
+
+                            <ul class="list-inline footer_social_icon">
+                                <li><a href="http://wa.me/6289630978180"><span class="fa fa-whatsapp"></span></a></li>
+                                <li><a href="tel:+6289630978180"><span class="fa fa-phone"></span></a></li>
+                                <li><a href="mailto:admin@solondonmakmur.com?subject="><span class="fa fa-envelope"></span></a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-5">
+                        <div class="footer_item">
+                            <h4>Explore link</h4>
+                            <ul class="list-unstyled footer_menu">
+                                <li><a href="https://www.termsandconditionsgenerator.com/live.php?token=SY2rve4I6LXTIqM1jxSEs6hPDhEEodXO"><span class="fa fa-play"></span> Terms & Conditions</a>
+                                <li><a href="http://wa.me/6289630978180"><span class="fa fa-play"></span> Help center</a>
+                                <li><a href="http://wa.me/6289630978180"><span class="fa fa-play"></span> Contact Sales</a>
+                                <li><a href="https://www.privacypolicyonline.com/live.php?token=1yXlTR5RvhDSG6Qbniw9E2FhJx9QQxU7"><span class="fa fa-play"></span> Privacy Policy</a>
+                                <li><a href=""><span class="fa fa-play"></span> Cekas terms</a>
+                                <li><a href=""><span class="fa fa-play"></span> Site map</a>
+                            </ul>
+                        </div>
+                    </div>
+               
+                    <div class="col-lg-3 col-sm-5">
+                        <div class="footer_item">
+                            <h4>Contact us</h4>
+                            <ul class="list-unstyled footer_contact">
+                                <li><a href=""><span class="fa fa-map-marker"></span> Jalan Sunan Kalijogo No:8 RT:3 RW:4</a></li>
+                                <li><a href="mailto:admin@solondonmakmur.com?subject=""><span class="fa fa-envelope"></span> admin@solondonmakmur.com</a></li>
+                                <li><a href="tel:+6289630978180"><span class="fa fa-mobile"></span><p>+6289630978180 </p></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Footer top end -->
+
+            <!-- Footer bottom -->
+            <div class="footer_bottom text-center">
+                <p class="wow fadeInRight">
+                    Made with 
+                    <i class="fa fa-heart"></i>
+                    by 
+                    <a target="_blank" href="http://bootstrapthemes.co">Bootstrap Themes</a> 
+                    2016. All Rights Reserved
+                </p>
+            </div><!-- Footer bottom end -->
+        </footer><!-- Footer end -->
+
+        <!-- JavaScript -->
+        <script src="js/jquery-1.12.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Bootsnav js -->
+        <script src="js/bootsnav.js"></script>
+
+        <!-- JS Implementing Plugins -->
+        <script src="js/isotope.js"></script>
+        <script src="js/isotope-active.js"></script>
+        <script src="js/jquery.fancybox.js?v=2.1.5"></script>
+     <script>
+  <!-- <p> masukan Javascript Sementara Disini </p> -->
+   function readMore(jagoankodeganteng) {
+    let jagoankodekeren = document.querySelector(`.kode-jagoan[jagoan-kode="${jagoankodeganteng}"] .jagoankodekeren`);
+    let moreText = document.querySelector(`.kode-jagoan[jagoan-kode="${jagoankodeganteng}"] .more`);
+    let btnText = document.querySelector(`.kode-jagoan[jagoan-kode="${jagoankodeganteng}"] .know_btn`);
+
+    if (jagoankodekeren.style.display === "none") {
+        jagoankodekeren.style.display = "inline";
+        btnText.textContent = "Read more";
+        moreText.style.display = "none";
+    } else {
+        jagoankodekeren.style.display = "none";
+        btnText.textContent = "Read less";
+        moreText.style.display = "inline";
+    }
+}
+    </script>
+        <script src="js/jquery.scrollUp.min.js"></script>
+
+        <script src="js/main.js"></script>
+		
+		
+    </body>	
+</html>	
